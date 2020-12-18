@@ -9,7 +9,7 @@ Eleanor.
 
 
 ## Tutorial videos
-* Week 8 Pro Dev - getting your project onto GitHub Video
-* Week 9 Pro Dev - HTML Edit part 1 Video
-* Week 10 ProDev - README files and Social Media Ready Repos Video
-* Week 11 Pro Dev - HTML Edit part 2 Video
+* Week 8 Pro Dev - [Getting your project onto GitHub Video](https://www.youtube.com/watch?v=bB0iRQUw9OM&feature=emb_title) 
+* Week 9 Pro Dev - [HTML Edit part 1 Video](https://www.youtube.com/watch?v=8XIMAmUcBzg&feature=emb_title)
+* Week 10 ProDev - [README files and Social Media Ready Repos Video](https://www.youtube.com/watch?v=8XIMAmUcBzg&feature=emb_title)
+* Week 11 Pro Dev - [HTML Edit part 2 Video](https://www.youtube.com/watch?v=Wr5wfEd8r_o&feature=emb_title)
