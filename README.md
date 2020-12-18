@@ -1,4 +1,6 @@
 # My portfolio website repo
+![Pro Dev Logo](https://github.com/EleanorBeauregard/EleanorBeauregard.github.io/blob/main/images/ProdevImage.png)
+
 This repo is my portfolio project for my Provesional Development module for Staffordshire university.
 
 Below are a a collection of youtube videos by one of the lecturers showing how to get a project online and how to edit it. There is also a video that shows how to write a README file and wwhy they are important when getting your repo social media ready.
